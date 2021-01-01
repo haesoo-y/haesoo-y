@@ -20,7 +20,7 @@
 - 💊 ESTsoft, Sales team Intern (2018.07~2018.12)
 - 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo9410" height="175">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo9410" height="165">
 
 ### What I Like
 
