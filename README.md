@@ -4,9 +4,10 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev__harry) 
 [![Naver Blog Badge](https://img.shields.io/badge/Daily%20Blog-1eb031?style=flat&logoColor=white)](https://blog.naver.com/haesoo9410) 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://haesoo9410.tistory.com/)
+  
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
 
 ### Who Am I
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
 
 - 🌱 I’m currently learning Node, React, Algorithm
 - 🥇 I majored in Economics
@@ -14,12 +15,11 @@
 
 ### Experience
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo9410" height="175">
 
 - 🎓 Hanyang University , Economics(ERICA) (2014.03~ )
 - 💊 ESTsoft, Sales team Intern (2018.07~2018.12)
 - 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo9410" height="175">
 
 ### What I Like
 - 📺 Drama
