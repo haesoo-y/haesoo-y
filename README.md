@@ -19,6 +19,7 @@
 - 🎓 Hanyang University , Economics(ERICA) (2014.03~ )
 - 💊 ESTsoft, Sales team Intern (2018.07~2018.12)
 - 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
+- 🔥 NAVER boostcamp 6th, Web Fullstack (2021.07~2021.12)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo9410" height="165">
 
