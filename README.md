@@ -10,7 +10,7 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
 
-- 🌱 I’m currently learning `React`, `Algorithm`, `TypeScript`
+- 🌱 I’m currently learning `React`, `TypeScript`, `FP`
 - 🥇 I majored in Economics
 - 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
 
