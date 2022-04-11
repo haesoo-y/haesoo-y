@@ -22,7 +22,7 @@
 - 🔥 Naver boostcamp 6th, Web Fullstack (2021.07~2021.12)
 - 🍫 Kakao Enterprise, AI L&S Intern (2022.02~ ) 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo9410" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo-y" height="165">
 
 ### What I Like
 
