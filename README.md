@@ -20,7 +20,7 @@
 - 💊 ESTsoft, Sales team Intern (2018.07~2018.12)
 - 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
 - 🔥 Naver boostcamp 6th, Web Fullstack (2021.07~2021.12)
-- 🍫 Kakao Enterprise, AI L&S Intern (2022.02~ ) 
+- 🍫 Kakao Enterprise, AI Lab & Service (2022.02~ ) 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo-y" height="165">
 
