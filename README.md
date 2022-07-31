@@ -10,7 +10,7 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
 
-- 🌱 I’m currently learning `svelte`, `k8s`, `FP`
+- 🌱 I’m currently learning `nest.js`, `k8s`, `haskell`
 - 🥇 I majored in Economics
 - 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
 
