@@ -16,7 +16,7 @@
 
 ### Experience
 
-- 🎓 Hanyang University , Economics(ERICA) (2014.03~ )
+- 🎓 Hanyang University , Economics(ERICA) (2014.03~2022.08)
 - 💊 ESTsoft, Sales team Intern (2018.07~2018.12)
 - 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
 - 🔥 Naver boostcamp 6th, Web Fullstack (2021.07~2021.12)
@@ -27,4 +27,6 @@
 ### What I Like
 
 - 📺 Drama
+- 👾 Animation
 - 🍕 Pizza
+- 📚 Books
