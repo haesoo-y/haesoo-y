@@ -9,7 +9,7 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
 
-- 🌱 I’m currently learning `docker`, `k8s`, `React Native`
+- 🌱 I’m currently learning `docker`, `k8s`, `AWS`
 - 🥇 I majored in Economics
 - 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
 
