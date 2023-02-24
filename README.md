@@ -22,8 +22,6 @@
 - 🔥 Naver boostcamp 6th, Web Fullstack (2021.07~2021.12)
 - 🍫 Kakao Enterprise, AI Lab & Service FE (2022.02~ ) 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo-y" height="165">
-
 ### What I Like
 
 - 📺 Drama
