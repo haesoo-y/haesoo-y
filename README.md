@@ -10,7 +10,7 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
 
-- 🌱 I’m currently learning `docker`, `k8s`, `Next.js`
+- 🌱 I’m currently learning `k8s`, `Next.js`, `MF`
 - 🥇 I majored in Economics
 - 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
 
@@ -20,7 +20,7 @@
 - 💊 ESTsoft, Sales team Intern (2018.07~2018.12)
 - 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
 - 🔥 Naver boostcamp 6th, Web Fullstack (2021.07~2021.12)
-- 🍫 Kakao Enterprise, AI & ML Platform FE (2022.02~ ) 
+- 🍫 Kakao Enterprise, Front-end Engineer (2022.02~ ) 
 
 ### What I Like
 
