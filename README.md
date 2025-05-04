@@ -4,12 +4,11 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/haesoo-y/) 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://haesoo9410.tistory.com/)
 
-  
-### Who Am I
-
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
 
-- 🌱 I’m currently learning `k8s`, `Next.js`, `MFE`
+### Who Am I
+
+- 🌱 I’m currently learning `Next.js`, `MFE`, `React Native`
 - 🥇 I majored in Economics
 - 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
 
